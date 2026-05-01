@@ -1,0 +1,24 @@
+{
+  "chapters": [
+    {
+      "id": "chap_1",
+      "title": "Electrostatics",
+      "description": "Basic Physics Concepts",
+      "sections": [
+        {
+          "id": "sec_1",
+          "title": "Part 1 - Electric Charge",
+          "lectures": [
+            {
+              "id": "lec_1",
+              "title": "Lecture 01",
+              "duration": "10 mins",
+              "downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/ST/part_1.zip",
+              "fileName": "part_1.zip"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
