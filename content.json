@@ -1,23 +1,47 @@
 {
-  "chapters": [
+  "classes": [
     {
-      "id": "chap_1",
-      "title": "Electrostatics",
-      "description": "Basic Physics Concepts",
-      "sections": [
+      "id": "class_11",
+      "title": "Class 11 Physics",
+      "chapters": [
         {
-          "id": "sec_1",
-          "title": "Part 1 - Electric Charge",
+          "id": "ch_01",
+          "title": "Physical World",
+          "visible": true,
           "lectures": [
             {
               "id": "lec_1",
-              "title": "Lecture 01",
-              "duration": "10 mins",
+              "title": "Lecture 01 - What is Physics?",
+              "duration": "45 min",
+              "thumbnail": "https://imgur.com/example_thumbnail1.jpg",
               "downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/ST/part_1.zip",
-              "fileName": "part_1.zip"
+              "fileName": "part_1.zip",
+              "approved": true,
+              "dppUrl": "https://github.com/infinitecheat/SHAAN/releases/download/PDF/dpp_01.pdf",
+              "notesUrl": "https://github.com/infinitecheat/SHAAN/releases/download/PDF/notes_01.pdf"
+            },
+            {
+              "id": "lec_2",
+              "title": "Lecture 02 - Scope and Excitement of Physics",
+              "duration": "50 min",
+              "thumbnail": "https://imgur.com/example_thumbnail2.jpg",
+              "downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/ST/part_2.zip",
+              "fileName": "part_2.zip",
+              "approved": true,
+              "dppUrl": "https://github.com/infinitecheat/SHAAN/releases/download/PDF/dpp_02.pdf",
+              "notesUrl": "https://github.com/infinitecheat/SHAAN/releases/download/PDF/notes_02.pdf"
             }
-          ]
-        }
+          ],
+          "dpp": []
+        },
+        { "id": "ch_02", "title": "Units and Measurements", "visible": false, "lectures": [], "dpp": [] }
+      ]
+    },
+    {
+      "id": "class_12",
+      "title": "Class 12 Physics",
+      "chapters": [
+        { "id": "ch_21", "title": "Electric Charges and Fields", "visible": false, "lectures": [], "dpp": [] }
       ]
     }
   ]
