@@ -25,7 +25,7 @@
         {
           "id": "ch_02",
           "title": "Units and Measurements",
-          "visible": false,
+          "visible": true,
           "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH2/ch2_thumb.jpg",
           "lectures": []
         }
@@ -38,7 +38,7 @@
         {
           "id": "ch_21",
           "title": "Electric Charges and Fields",
-          "visible": false,
+          "visible": true,
           "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH3/ch12_thumb.jpg",
           "lectures": []
         }
