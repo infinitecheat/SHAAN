@@ -4,44 +4,68 @@
       "id": "class_11",
       "title": "Class 11 Physics",
       "chapters": [
+        { "id": "ch_01", "title": "Physical World", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_02", "title": "Units and Measurements", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_03", "title": "Motion in a Straight Line", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_04", "title": "Motion in a Plane", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_05", "title": "Laws of Motion", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_06", "title": "Work, Energy and Power", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_07", "title": "System of Particles", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_08", "title": "Rotational Motion", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_09", "title": "Gravitation", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_10", "title": "Mechanical Properties of Solids", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_11", "title": "Mechanical Properties of Fluids", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_12", "title": "Thermal Properties of Matter", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_13", "title": "Thermodynamics", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_14", "title": "Kinetic Theory of Gases", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_15", "title": "Oscillations", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_16", "title": "Waves", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_17", "title": "Fluid Dynamics", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_18", "title": "Surface Tension", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_19", "title": "Viscosity", "visible": false, "lectures": [], "dpp": [] },
         {
-          "id": "ch_01",
-          "title": "Physical World",
+          "id": "ch_20",
+          "title": "Electrostatics",
           "visible": true,
           "lectures": [
             {
               "id": "lec_1",
-              "title": "Lecture 01 - What is Physics?",
+              "title": "Electric Charge & Coulomb's Law",
               "duration": "45 min",
-              "thumbnail": "https://imgur.com/example_thumbnail1.jpg",
+              "thumbnail": "",
               "downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/ST/part_1.zip",
               "fileName": "part_1.zip",
-              "approved": true,
-              "dppUrl": "https://github.com/infinitecheat/SHAAN/releases/download/PDF/dpp_01.pdf",
-              "notesUrl": "https://github.com/infinitecheat/SHAAN/releases/download/PDF/notes_01.pdf"
-            },
-            {
-              "id": "lec_2",
-              "title": "Lecture 02 - Scope and Excitement of Physics",
-              "duration": "50 min",
-              "thumbnail": "https://imgur.com/example_thumbnail2.jpg",
-              "downloadUrl": "https://github.com/infinitecheat/part_2/releases/download/part_2/part_2.zip",
-              "fileName": "part_2.zip",
-              "approved": true,
-              "dppUrl": "https://github.com/infinitecheat/part_2_dpp/releases/download/dpp/dpp_02.pdf",
-              "notesUrl": "https://github.com/infinitecheat/part_2/blob/main/notes_02.pdf"
+              "approved": true
             }
           ],
           "dpp": []
-        },
-        { "id": "ch_02", "title": "Units and Measurements", "visible": false, "lectures": [], "dpp": [] }
+        }
       ]
     },
     {
       "id": "class_12",
       "title": "Class 12 Physics",
       "chapters": [
-        { "id": "ch_21", "title": "Electric Charges and Fields", "visible": false, "lectures": [], "dpp": [] }
+        { "id": "ch_21", "title": "Electric Charges and Fields", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_22", "title": "Electrostatic Potential and Capacitance", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_23", "title": "Current Electricity", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_24", "title": "Moving Charges and Magnetism", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_25", "title": "Magnetism and Matter", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_26", "title": "Electromagnetic Induction", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_27", "title": "Alternating Current", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_28", "title": "Electromagnetic Waves", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_29", "title": "Ray Optics", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_30", "title": "Optical Instruments", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_31", "title": "Wave Optics", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_32", "title": "Dual Nature of Radiation and Matter", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_33", "title": "Atoms", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_34", "title": "Nuclei", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_35", "title": "Semiconductor Electronics", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_36", "title": "Communication Systems", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_37", "title": "Photoelectric Effect", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_38", "title": "Nuclear Physics", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_39", "title": "Modern Physics", "visible": false, "lectures": [], "dpp": [] },
+        { "id": "ch_40", "title": "Experimental Physics", "visible": false, "lectures": [], "dpp": [] }
       ]
     }
   ]
