@@ -7,7 +7,7 @@
         {
           "id": "ch_01",
           "title": "Electrostatics",
-          "visible": false,
+          "visible": true,
           "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH1/ch1_thumb.jpg",
           "lectures": [
             {
