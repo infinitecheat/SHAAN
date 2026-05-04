@@ -8,23 +8,23 @@
       "chapters": [
         {
           "id": "ch_01",
-          "title": "Basics Maths Of Physics",
+          "title": "Motion in a Straight Line",
           "visible": true,
           "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH1/TH1.jpg",
           "lectures": [
             {
               "id": "lec_1",
-              "title": "Basics Maths Of Physics ( Lec - 1 )",
+              "title": "Motion in a Straight Line [ Lec 02]",
               "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH1/TH1.jpg",
               "downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/V1/gaana.mp4",
               "fileName": "lecture1.mp4",
               "approved": true,
               "dppUrl": "https://github.com/infinitecheat/DPP/releases/download/DPP1/DPP_Lec_1.pdf",
               "notesUrl": "https://github.com/infinitecheat/NOTES/releases/download/NOTES1/Dark_Clean_Final_YourPhysicsMentor.pdf.pdf"
-            },
+            }
 			{
-              "id": "lec_2",
-              "title": "TESTING",
+              "id": "lec_1",
+              "title": "Motion in a Straight Line [ Lec 02]",
               "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH2/2.jpg",
               "downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/V2/final_lecture_video.mp4",
               "fileName": "TESTING.mp4",
@@ -36,15 +36,9 @@
         },
         {
           "id": "ch_02",
-          "title": "Motion in a Straight Line",
+          "title": "Units and Measurements",
           "visible": true,
           "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH2/ch2_thumb.jpg",
-          "downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/V1/gaana.mp4",
-              "fileName": "lecture1.mp4",
-              "approved": true,
-              "dppUrl": "https://github.com/infinitecheat/DPP/releases/download/DPP1/DPP_Lec_1.pdf",
-              "notesUrl": "https://github.com/infinitecheat/NOTES/releases/download/NOTES1/Dark_Clean_Final_YourPhysicsMentor.pdf.pdf"
-            },
           "lectures": []
         }
       ]
