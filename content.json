@@ -1,88 +1,83 @@
 {
-"classes": [
-{
-"id": "class_11",
-"title": "CLASS 11th NEET",
-"thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/C11/BUNIYAAD.jpg",
-"visible": true,
-"chapters": [
-{
-"id": "ch_01",
-"title": "Basics Maths Of Physics",
-"visible": true,
-"thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH1/TH1.jpg",
-"lectures": [
-{
-"id": "lec_1",
-"title": "Basics Maths Of Physics ( Lec - 1 )",
-"thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH1/TH1.jpg",
-"downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/V1/gaana.mp4",
-"fileName": "lecture1.mp4",
-"approved": true,
-"dppUrl": "https://github.com/infinitecheat/DPP/releases/download/DPP1/DPP_Lec_1.pdf",
-"notesUrl": "https://github.com/infinitecheat/NOTES/releases/download/NOTES1/Dark_Clean_Final_YourPhysicsMentor.pdf"
-},
-{
-"id": "lec_2",
-"title": "TESTING",
-"thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH2/2.jpg",
-"downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/V2/final_lecture_video.mp4",
-"fileName": "TESTING.mp4",
-"approved": true,
-"dppUrl": null,
-"notesUrl": null
-}
-]
-},
-{
-"id": "ch_02",
-"title": "Motion in a Straight Line",
-"visible": true,
-"thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH2/ch2_thumb.jpg",
-"lectures": [
-{
-"id": "lec_1",
-"title": "Motion in a Straight Line ( Lec - 1 )",
-"thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH2/ch2_thumb.jpg",
-"downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/V1/gaana.mp4",
-"fileName": "lecture1.mp4",
-"approved": true,
-"dppUrl": "https://github.com/infinitecheat/DPP/releases/download/DPP1/DPP_Lec_1.pdf",
-"notesUrl": "https://github.com/infinitecheat/NOTES/releases/download/NOTES1/Dark_Clean_Final_YourPhysicsMentor.pdf"
-}
-]
-}
-]
-},
-{
-"id": "class_12",
-"title": "CLASS 12th NEET",
-"thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/C12/JUNOON.jpg",
-"visible": true,
-"chapters": [
-{
-"id": "ch_21",
-"title": "Electric Charges and Fields",
-"visible": true,
-"thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH3/ch12_thumb.jpg",
-"lectures": []
-}
-]
-},
-{
-"id": "class_dropper",
-"title": "DROPPER NEET",
-"thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/DROPPER/FATEH.jpg",
-"visible": true,
-"chapters": [
-{
-"id": "ch_d1",
-"title": "Basic Mathematics",
-"visible": true,
-"thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH4/math_thumb.jpg",
-"lectures": []
-}
-]
-}
-]
+  "classes": [
+    {
+      "id": "class_11",
+      "title": "CLASS 11th NEET",
+      "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/C11/BUNIYAAD.jpg",
+      "visible": true,
+      "chapters": [
+        {
+          "id": "ch_01",
+          "title": "Basics Maths Of Physics",
+          "visible": true,
+          "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH1/TH1.jpg",
+          "lectures": [
+            {
+              "id": "lec_1",
+              "title": "Basics Maths Of Physics ( Lec - 1 )",
+              "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH1/TH1.jpg",
+              "downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/V1/gaana.mp4",
+              "fileName": "lecture1.mp4",
+              "approved": true,
+              "dppUrl": "https://github.com/infinitecheat/DPP/releases/download/DPP1/DPP_Lec_1.pdf",
+              "notesUrl": "https://github.com/infinitecheat/NOTES/releases/download/NOTES1/Dark_Clean_Final_YourPhysicsMentor.pdf.pdf"
+            },
+			{
+              "id": "lec_2",
+              "title": "TESTING",
+              "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH2/2.jpg",
+              "downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/V2/final_lecture_video.mp4",
+              "fileName": "TESTING.mp4",
+              "approved": true,
+              "dppUrl": "",
+              "notesUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "ch_02",
+          "title": "Motion in a Straight Line",
+          "visible": true,
+          "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH2/ch2_thumb.jpg",
+          "downloadUrl": "https://github.com/infinitecheat/SHAAN/releases/download/V1/gaana.mp4",
+              "fileName": "lecture1.mp4",
+              "approved": true,
+              "dppUrl": "https://github.com/infinitecheat/DPP/releases/download/DPP1/DPP_Lec_1.pdf",
+              "notesUrl": "https://github.com/infinitecheat/NOTES/releases/download/NOTES1/Dark_Clean_Final_YourPhysicsMentor.pdf.pdf"
+            },
+          "lectures": []
+        }
+      ]
+    },
+    {
+      "id": "class_12",
+      "title": "CLASS 12th NEET",
+      "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/C12/JUNOON.jpg",
+      "visible": true,
+      "chapters": [
+        {
+          "id": "ch_21",
+          "title": "Electric Charges and Fields",
+          "visible": true,
+          "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH3/ch12_thumb.jpg",
+          "lectures": []
+        }
+      ]
+    },
+    {
+      "id": "class_dropper",
+      "title": "DROPPER NEET",
+      "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/DROPPER/FATEH.jpg",
+      "visible": true,
+      "chapters": [
+        {
+          "id": "ch_d1",
+          "title": "Basic Mathematics",
+          "visible": true,
+          "thumbnail": "https://github.com/infinitecheat/THUMBNAIL/releases/download/TH4/math_thumb.jpg",
+          "lectures": []
+        }
+      ]
+    }
+  ]
 }
